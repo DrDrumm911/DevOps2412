@@ -1,5 +1,5 @@
 print("oren")
 
 a = 2
-b = 4
+b = 5
 print(a * b)
